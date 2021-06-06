@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'June 06, 2021',
-  name: 'MR. ACEJUN BANGALISAN, I LOVE YOU BABY' 
+  name: 'MR. ACEJUN BANGALISAN, I LOVE YOU BABY ❤︎' 
 };
 
 function hideEverything() {
